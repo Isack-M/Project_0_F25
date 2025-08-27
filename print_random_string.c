@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+#include "random.c"
 
 
 // random string generator wrapper function
